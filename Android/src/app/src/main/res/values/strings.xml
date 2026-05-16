@@ -1,0 +1,52 @@
+
+
+<resources>
+  <!-- App name -->
+  <string name="app_name" translatable="false">ANVI</string>
+  
+  <!-- Category -->
+  <string name="category_llm" translatable="false">LLM</string>
+  
+  <!-- Common actions -->
+  <string name="ok" translatable="false">OK</string>
+  <string name="cancel" translatable="false">Cancel</string>
+  <string name="close" translatable="false">Close</string>
+  
+  <!-- Chat related -->
+  <string name="chat_textinput_placeholder" translatable="false">Type message…</string>
+  <string name="chat_you" translatable="false">You</string>
+  <string name="chat_generic_agent_name" translatable="false">Model</string>
+  <string name="text_input_placeholder_llm_chat" translatable="false">Type prompt…</string>
+  <string name="warming_up" translatable="false">warming up…</string>
+  <string name="running" translatable="false">running</string>
+  <string name="run_again" translatable="false">Run again</string>
+  <string name="benchmark" translatable="false">Run benchmark</string>
+  <string name="hold_down_to_talk" translatable="false">Hold to talk</string>
+  <string name="listening" translatable="false">Listening...</string>
+  
+  <!-- Content descriptions for accessibility -->
+  <string name="cd_navigate_back_icon">Go back</string>
+  <string name="cd_model_settings_icon">Model settings</string>
+  <string name="cd_reset_session_icon">Reset session</string>
+  <string name="cd_close_image_viewer_icon">Close image viewer</string>
+  <string name="cd_clear_input_history_icon">Clear input history</string>
+  <string name="cd_delete_input_history_entry_icon">Delete input history entry</string>
+  <string name="cd_image_thumbnail">Image thumbnail</string>
+  <string name="cd_add_content_icon">Add content</string>
+  <string name="cd_prompt_input_text_field">Prompt input</string>
+  <string name="cd_stop_icon">Stop</string>
+  <string name="cd_send_prompt_icon">Send prompt</string>
+  <string name="cd_model_response_text">Model response text</string>
+  <string name="cd_user_image">User image %1$d</string>
+  <string name="cd_user_image_in_group">User image %1$d of %2$d</string>
+  <string name="cd_camera_shutter_icon">Camera shutter</string>
+  <string name="cd_toggle_front_back_camera_icon">Toggle front or back camera</string>
+  <string name="cd_delete_icon">Delete</string>
+  <string name="cd_close_icon">Close</string>
+  <string name="cd_chat_panel">Chat panel</string>
+  <string name="cd_copy_to_clipboard_icon">Copy to clipboard</string>
+  <string name="cd_send_audio_clip_icon">Send audio clip</string>
+  <string name="cd_start_recording">Start recording</string>
+  <string name="cd_play_audio_icon">Play audio</string>
+  <string name="cd_stop_playback_icon">Stop playback</string>
+</resources>
